@@ -7,15 +7,6 @@ redirect_from:
   - /about.html
 ---
 
----
-permalink: /
-title: "About Me"
-author_profile: true
-redirect_from:
-  - /about/
-  - /about.html
----
-
 I am a master's student in Statistics at Columbia University.
 
 My research focuses on **efficient sampling and inference for generative models**, particularly diffusion models and large language models. I am interested in both the theoretical foundations and practical acceleration of generative sampling algorithms.
